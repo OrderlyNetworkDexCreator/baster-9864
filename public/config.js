@@ -25,7 +25,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "https://x.com/BasterDEX",
   "VITE_SEO_SITE_NAME": "Baster - Perp DEX",
   "VITE_SEO_SITE_DESCRIPTION": "Perpetual DEX (Zero Slippage | Deep Liquidity | Turbo Fast)",
-  "VITE_SEO_SITE_URL": "https://dex.orderly.network/baster-9864/",
+  "VITE_SEO_SITE_URL": "https://baster.app",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "@BasterDEX",
