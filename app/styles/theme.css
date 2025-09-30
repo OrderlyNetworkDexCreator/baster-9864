@@ -1,6 +1,6 @@
 :root {
-  --oui-font-family: 'Montserrat', sans-serif;
-  --oui-font-size-base: 18px;
+  --oui-font-family: 'Open Sans', sans-serif;
+  --oui-font-size-base: 16px;
 
   /* colors */
   --oui-color-primary: 0 87 250;
@@ -30,15 +30,15 @@
   --oui-color-warning-darken: 255 152 0;
   --oui-color-warning-contrast: 255 255 255;
 
-  --oui-color-fill: 36 32 47;
+  --oui-color-fill: 0 6 87;
   --oui-color-fill-active: 40 46 58;
 
   --oui-color-base-1: 0 0 0;
-  --oui-color-base-2: 3 0 36;
-  --oui-color-base-3: 4 0 36;
+  --oui-color-base-2: 23 23 23;
+  --oui-color-base-3: 0 0 0;
   --oui-color-base-4: 16 14 22;
-  --oui-color-base-5: 13 23 43;
-  --oui-color-base-6: 14 0 66;
+  --oui-color-base-5: 56 58 62;
+  --oui-color-base-6: 31 31 31;
   --oui-color-base-7: 66 73 86;
   --oui-color-base-8: 16 15 21;
   --oui-color-base-9: 22 20 28;
@@ -95,6 +95,6 @@
 }
 
 html, body {
-  font-family: 'Montserrat', sans-serif !important;
-  font-size: 18px !important;
+  font-family: 'Open Sans', sans-serif !important;
+  font-size: 16px !important;
 }
