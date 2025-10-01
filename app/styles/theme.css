@@ -33,10 +33,10 @@
   --oui-color-fill: 0 6 87;
   --oui-color-fill-active: 40 46 58;
 
-  --oui-color-base-1: 0 11 46;
+  --oui-color-base-1: 255 0 0;
   --oui-color-base-2: 0 0 0;
-  --oui-color-base-3: 0 11 46;
-  --oui-color-base-4: 0 11 46;
+  --oui-color-base-3: 89 255 0;
+  --oui-color-base-4: 231 255 51;
   --oui-color-base-5: 56 58 62;
   --oui-color-base-6: 0 11 46;
   --oui-color-base-7: 66 73 86;
